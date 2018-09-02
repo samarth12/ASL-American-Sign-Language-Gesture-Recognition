@@ -1,0 +1,11 @@
+Gestures,Precision,Recall,F1
+and,0.99422,1,0.9971
+hearing,1,1,1
+can,1,1,1
+about,0.99412,1,0.99705
+cop,1,0.97674,0.98824
+deaf,1,1,1
+decide,1,1,1
+father,0.9883,0.99412,0.9912
+find,1,1,1
+goout,0.98947,1,0.99471
